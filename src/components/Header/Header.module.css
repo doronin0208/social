@@ -1,0 +1,26 @@
+.header {
+  grid-area: h;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 45px;
+}
+
+.header h1 {
+  height: 45px;
+  font-size: 30px;
+  padding: 0;
+  text-align: center;
+  color: white;
+}
+
+.header span {
+  color: red;
+}
+
+.loginBlock {
+  float: right;
+  padding: 0;
+  line-height: 45px;
+}
+
